@@ -1,0 +1,48 @@
+# Pineapple Square Doily
+
+=> ../index.gmi Back
+
+My very first doily design. Pattern is licensed under Creative Commons CC 1.0, please attribute me if you are pasting this elsewhere
+
+## Abbreviations
+
+* ch: chain
+* sl st: slip stitch
+* sc: single crochet
+* dc: double crochet
+* tr: treble crochet
+* dc2-tog: 2 double crochet finished together
+* shell: (2dc, ch2, 2dc) in same space
+* { } instructios within bracket to be repeated as many times as stated
+
+## Pattern
+
+* ch10, sl st in first st (ring)
+* Round 1: ch3, 3dc in ring, ch3. {4dc, 3ch repeat from} 3 times. sl st in top of ch3 (4 groups of 4dc)
+* Round 2: ch3, dc in same st. dc in next 2dc . 2dc in next dc. ch2, dc in 2nd st in ch3, ch2. {2dc, dc in next 2dc, 2dc in next dc, ch2, dc in 2nd st of ch3, ch2 } 3 times. sl st in top of ch3
+* Round 3: ch3, dc in same st, dc in next 4dc, 2dc in next dc, ch2, dc in next dc, ch2. {2dc, dc in next 4dc, 2dc in next dc, ch2, dc in next dc, ch2 } 3 times. sl st in top of ch3
+* Round 4: ch3, dc in same st, dc in next 6dc, 2dc in next dc, ch2, 2dc in next dc, ch2. {2dc, dc in next 6dc, 2dc in next dc, ch2, 2dc in next dc, ch2 } 3 times. sl st in top of ch3
+* Round 5: ch3, dc in same st, dc in next 8dc, 2dc in next dc, ch2, dc in next 2dc, ch2. {2dc, dc in next 8dc, 2dc in next dc, ch2, dc in next 2dc, ch2 } 3 times. sl st in top of ch3
+* Round 6: ch3, dc in same st, dc in next 10dc, 2dc in next dc, ch2, (dc, ch2, dc), ch2. {2dc, dc in next 10dc, 2dc in next dc, ch2, dc, ch2, dc, ch2} 3 times. sl st in top of ch3
+
+* Round 7: ch3, dc in same st, dc in next 12dc, 2dc in next dc, ch2, (2dc, ch2, 2dc) in ch2 space between (dc, ch2, dc) of last row, ch2. {2dc, dc in next 12dc, 2dc in next dc, ch2, (2dc, ch2, 2dc) in ch2 space} 3 times. sl st in top of ch3
+
+* Round 8: ch3, using ch3 as dc complete dc2-tog with next st, dc in next 12dc, dc2-tog in next 2dc, ch4, (2dc, ch2, 2dc) all in ch2 space, ch4. {dc2-tog over next 2dc, dc in next 12dc, dc2-tog in next 2dc, ch4, (2dc, ch2, 2dc) in ch2 space, ch4} 3 times. sl st in top of ch3
+
+* Round 9: ch3, using ch3 as dc complete dc2-tog with next st, dc in next 10dc, dc2-tog in next 2dc, ch6, (2dc, ch2, 2dc) all in ch2 space, ch6. {dc2-tog over next 2dc, dc in next 10dc, dc2-tog in next 2dc, ch6, (2dc, ch2, 2dc) in ch2 space, ch6} 3 times. sl st in top of ch3
+
+* Round 10: ch3, using ch3 as dc complete dc2-tog with next st, dc in next 8dc, dc2-tog in next 2dc, ch8, (2dc, ch2, 2dc) all in ch2 space, ch8. {dc2-tog over next 2dc, dc in next 8dc, dc2-tog in next 2dc, ch8, (2dc, ch2, 2dc) in ch2 space, ch8} 3 times. sl st in top of ch3
+
+* Round 11: ch3, using ch3 as dc complete dc2-tog with next st, dc in next 6dc, dc2-tog in next 2dc, ch10, (2dc, ch5, 2dc) all in ch2 space, ch10. {dc2-tog over next 2dc, dc in next 6dc, dc2-tog in next 2dc, ch10, (2dc, ch5, 2dc) in ch2 space, ch10} 3 times. sl st in top of ch3
+
+* Round 12: ch3, using ch3 as dc complete dc2-tog with next st, dc in next 4dc, dc2-tog in next 2dc, ch10, 13dc all in ch5 space, ch10. {dc2-tog over next 2dc, dc in next 4dc, dc2-tog in next 2dc, ch10, 13dc all in ch5 space, ch10} 3 times. sl st in top of ch3
+
+* Round 13: ch3, using ch3 as dc complete dc2-tog with next st, dc in next 2dc, dc2-tog in next 2dc, ch10, dc in next dc, {ch1, dc} 12 times, ch10. {dc2-tog over next 2dc, dc in next 2dc, dc2-tog in next 2dc, ch10, dc in next dc, {ch1, dc} 12 times, ch10} 3 times. sl st in top of ch3
+
+* Round 14: ch3, using ch3 as dc complete dc2-tog with next st, dc2-tog in next 2dc, ch10, sc in first ch1 space, {ch3, sc in next ch1 space} 11 times, ch10. {dc2-tog over next 2dc, dc2-tog in next 2dc, ch10, sc in first ch1 space, {ch3, sc in next ch1 space} 11 times, ch10} 3 times. sl st in top of ch3
+
+* Fasten off. And weave in.
+
+* Finish each pineapple at the corner as follows. * sl st in ch3 space, {sc in same ch3 space, ch3} 10 times. Turn, repeat from *, each time having one less sc, ch3. Repeat for the other 3 pineapples.
+
+* Weave in and block

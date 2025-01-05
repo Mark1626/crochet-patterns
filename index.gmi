@@ -1,0 +1,9 @@
+# Crochet patterns
+
+This repo contains crochet patterns which I designed
+
+Patterns are licensed under Creative Commons CC 1.0
+
+## Doilies
+
+=> doily/pineapple-square.gmi Pineapple Square
